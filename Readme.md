@@ -10,12 +10,13 @@ Esta wiki, esta ordenada de más fácil a más difícil, si es tu primera partid
 
 ## Contenido del juego base
 
-Cartas de magia
-Cartas de movimiento
-Cartas de portal
-Cartas de obstáculos
-Maestros
+- Cartas de magia
+- Cartas de movimiento
+- Cartas de portal
+- Cartas de obstáculos
+- Maestros
 
 
 [Maestros](Maestros.md)
+
 [magia](magia.md)
