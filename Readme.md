@@ -8,7 +8,7 @@ Esta wiki, esta ordenada de más fácil a más difícil, si es tu primera partid
 
 Si quieres hacerte el juego, tienes que seguir [esta guia](CreacionDelJuego.md)
 
-Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por aprender sobre los [Maestros](maestros.md)
+Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aqui](Partida.md)
 
 
 
