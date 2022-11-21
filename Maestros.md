@@ -18,7 +18,7 @@ Al [[subir de nivel]], los maestros reciben una montura que les hace mas grandes
 
 El primer nivel
 
-![](MejorarPersonajes.svg)
+![](MejorarPersonajes.excalidraw.svg)
 
 lo que cambia su movimiento [[cartas de movimiento]]
 
