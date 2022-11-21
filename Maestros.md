@@ -2,7 +2,7 @@
 Las piezas son cuadradas (por lo menos en esta primera versión(se está valorando la posibilidad de hexágonos). Se hacen à partir de un cuadrado de 8x8 cm y se doblan dos veces de manera que se obtenga un cuadrado de 4x4 cm.
 
 Cada pieza representa a un maestro de un elemento, y cada uno tiene su habilidad propia. 
-Hay 3 elementos: [[Fuego]], [[Vida]], [[Agua]]
+Hay 3 elementos: [Fuego](Fuego.md), [Vida](Vida.md), [Agua](Agua.md)
 
 Las piezas se mueven haciéndolas girar sobre una arista.
 Pueden moverse hacia cualquier dirección en la que tengan aristas.
