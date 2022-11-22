@@ -1,4 +1,4 @@
-[[Vida]] -> [[Agua]] -> [[Fuego]] -> planta
+[[Planta]] -> [[Agua]] -> [[Fuego]] -> planta
 
 -> mata a
 

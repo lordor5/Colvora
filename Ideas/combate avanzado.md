@@ -1,3 +1,3 @@
-[[Vida]] -> Agua y Fuego
+[[Planta]] -> Agua y Fuego
 [[Agua]] -> Fuego y Planta
 [[Fuego]] -> Planta y Agua

@@ -1,6 +1,9 @@
-[[vagoneta]]
-[[Juegos del hambre]]
+[Vagoneta](Modos_de_juego/Vagoneta)
+[Juegos del hambre](Juegos_del_hambre.md)
 atrapar la bandera
+
+
+se pueden poner estructuras elevadas a las que solo se pueda acceder desde una rampa o con un porta
 mazmorras
 
 
@@ -18,7 +21,4 @@ Los personajes pueden reaparecer o no o se puede hacer un ritual pagando para qu
 
 (magia: hay una carta para revivir a un personaje)
 
-
-
-#juego
 
