@@ -6,7 +6,8 @@ Esta wiki, esta ordenada de más fácil a más difícil, si es tu primera partid
 
 # Inicio
 
-Si quieres hacerte el juego, tienes que seguir [esta guía](CreacionDelJuego.md)
+
+Si quieres hacerte el juego, tienes que seguir [esta guía](Creacion_del_Juego.md)
 
 Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aquí](Partida.md)
 
