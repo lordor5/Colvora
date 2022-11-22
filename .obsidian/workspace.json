@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "2c74297aebff4515",
+    "type": "split",
+    "children": [
+      {
+        "id": "be86fab6fed455ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1fe2d186475582d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hechizos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a87f5ca1566cd392",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6feb4f4a7c6a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b70fff5d3daf81c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b37e55410681824",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e9432fc21dd70f5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b227a86db07e83a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dc6342f576f5b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6636885397039e8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hechizos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42038d86ccba5dc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hechizos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85345644c573dbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "faf09162346adfbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hechizos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b70fff5d3daf81c8",
+  "lastOpenFiles": [
+    "Ideas/Ajedrez Hexagonal.md",
+    "Hechizos.md"
+  ]
+}

@@ -9,7 +9,3 @@
 
 
 1 hexagono vacio en el centro
-
-
-
-#juego
