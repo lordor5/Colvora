@@ -1,6 +1,6 @@
-[Vagoneta](Modos_de_juego/Vagoneta)
-[Juegos del hambre](Juegos_del_hambre.md)
-atrapar la bandera
+- [Vagoneta](Modos_de_juego/Vagoneta)
+- [Juegos del hambre](Juegos_del_hambre.md)
+- [Atrapar la bandera](Atrapar_la_bandera.md)
 
 
 se pueden poner estructuras elevadas a las que solo se pueda acceder desde una rampa o con un porta

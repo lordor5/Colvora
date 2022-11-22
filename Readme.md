@@ -29,3 +29,5 @@ Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aquí](
 Colvora no es en si un juego sino que es mas un constructor de juegos. La idea es poner las bases para construir encima muchos juegos con la mecánica de que las piezas forman el tablero. La mesa seria el tablero de juego y el juego debe adaptarse a la mesa (ej. en una mesa cuadrada y pequeña, seria mejor que la vagoneta pasara en diagonal para que el juego durara mas y haya mas estrategia)
 
 La idea al crear este juego es hacer un juego simple y barato de construir para que sea asequible a todo el mundo y además el juego crezca con los jugadores de manera que un niño pueda jugar y se divierta y un adulto también
+
+<!--Todo: hechizos, fichas en el pdf, modos de juego -->

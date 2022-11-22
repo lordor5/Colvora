@@ -6,14 +6,13 @@ Los jugadores pueden acceder a la magia de distintas formas:
 
 - Las cartas están para para todos, se pueden gastar en su turno.( Se puede pagar mas para gastar una carta fuera de su turno).Se sacan del mazo 3 cartas que se ponen visibles encima de la mesa, los jugadores pueden usarlas y se van reponiendo.
 
-- [[Correr]]
-- [[Impulso]]
-- [[Mina]]
-- [[Misil mágico]]
-- Revivir
-- Banco
-- Aliento de dragón
-- Continua 
+- [Correr](Hechizos/Correr)
+- [Impulso](Hechizos/Impulso)
+- [Mina](Hechizos/Mina)
+- [Misil mágico](Hechizos/Misil_magico)
+- [Revivir](Revivir.md)
+- [Banco](Hechizos/Banco)
+- [Aliento de dragón](Hechizos/Aliento_de_dragon)
 - Rocas
 - Bandidos pictos
 - Escudo 
@@ -29,6 +28,8 @@ Los jugadores pueden acceder a la magia de distintas formas:
 - [[Explosión]]
 - Fuego mágico de los enanos
 
+Hechizos para revisar 
+- Continua 
 
 
 <details>

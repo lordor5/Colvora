@@ -1,4 +1,4 @@
-[[Fuego]]
+[Fuego](/Elementos/Fuego)
 Coste: 3
 Añade 2 al movimiento de un color
 

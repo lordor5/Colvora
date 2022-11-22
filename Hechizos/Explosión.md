@@ -1,3 +1,4 @@
+[Fuego](/Elementos/Fuego)
 coste: 6
 
 Una de tus fichas se inmola, todas las fichas que estén en el rango mueren.

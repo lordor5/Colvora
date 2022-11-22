@@ -1,0 +1,1 @@
+En este modo de juego, el hechizo de portal esta baneado
