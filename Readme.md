@@ -21,7 +21,7 @@ Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aqui](P
 - Maestros
 
 
-[magia](magia.md)
+[Hechizos](Hechizos.md)
 
 
 

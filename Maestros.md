@@ -27,4 +27,8 @@ Al mejorar, son mas grandes por lo que pueden moverse mas con el mismo movimient
 
 En el nivel 3:
 
+Al nivel 3 son mas grandes pero tambien mas fuertes, ahora pueden matar al color que los mata
+
+> ej. Si el maestro es de fuego, muere por el agua, pero ahora si el ataca al agua, la marta. Se mantiene que si el agua le ataca, el muere
+
 ![Mejora de nivel 2 a nivel 3](MejoraMaestro3.excalidraw.svg)
