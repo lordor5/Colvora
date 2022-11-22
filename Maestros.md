@@ -19,7 +19,7 @@ Los maestros empiezan a nivel 1, para subir de nivel, el jugador tiene que pagar
  -> 8 gemas para subir a nivel 3
  -> 4 gemas para revivirlo (si es posible)
 
-Al subir de nivel, los maestros reciben una montura que les hace mas grandes como se puede ver an la imagen
+Al subir de nivel, los maestros reciben una montura que les hace mas grandes como se puede ver en la imagen
 
 ![Mejora de un maestro de nivel 1 a nivel 2](MejoraMaestro2.excalidraw.svg)
 
