@@ -1,0 +1,1 @@
+Los maestros tienen la magia y solo se puede usar cuando esta visible el hechizo

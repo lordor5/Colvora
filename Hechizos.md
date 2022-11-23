@@ -13,12 +13,13 @@ Los jugadores pueden acceder a la magia de distintas formas:
 - [Revivir](Revivir.md)
 - [Banco](Hechizos/Banco)
 - [Aliento de dragón](Hechizos/Aliento_de_dragon)
-- Rocas
+- [Rocas](Hechizos/Rocas.md)
+- [Barrera](Hechizos/Barrera.md)
 - Bandidos pictos
 - Escudo 
-- Portal 
+- [Portal](Hechizos/Portal.md)
 - Mana 
-- Túnel 
+- [Túnel](Hechizos/Tunel.md)
 - Muerte 
 - Diarrea
 - Ladrón

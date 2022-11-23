@@ -13,14 +13,6 @@ Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aquí](
 
 
 
-## Contenido del juego base
-
-- Cartas de magia
-- Cartas de movimiento
-- Cartas de portal
-- Cartas de obstáculos
-- Maestros
-
 
 [Hechizos](Hechizos.md)
 

@@ -1,0 +1,1 @@
+Creas una [barrera](archivos/barrera) en el sitio donde elijas

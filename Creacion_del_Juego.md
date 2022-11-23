@@ -13,3 +13,11 @@ En una cartulina A4 en un grosor un poco mas gordo que el papel normal
 después tienes que recortarlo.
 
 Por ultimo con que consigas unas fichas que representen las gemas ya lo tendrías todo y puedes empezar a jugar [aquí](Partida.md)
+
+## Contenido del juego base
+
+- Cartas de magia
+- Cartas de movimiento
+- Cartas de portal
+- Cartas de obstáculos
+- Maestros
