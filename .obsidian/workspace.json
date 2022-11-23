@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Ideas.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Ideas.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Ideas.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Ideas.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ideas/Ideas.md",
+                "file": "Readme.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,15 +201,14 @@
   },
   "active": "3528e552763086fd",
   "lastOpenFiles": [
-    "Maestros.md",
-    "Excalidraw/Drawing 2022-11-23 12.14.33.excalidraw.md",
-    "Partida.md",
-    "modos de juego.md",
+    "Modos_de_juego.md",
     "Hechizos.md",
-    "Empezar a jugar.md",
-    "Readme.md",
+    "Empezar_a_jugar.md",
     "Creacion_del_Juego.md",
-    "Modos_de_juego/Vagoneta.md",
-    "Ideas/nv2.md"
+    "Readme.md",
+    "Partida.md",
+    "Maestros.md",
+    "Ideas/Ideas.md",
+    "Excalidraw/Drawing 2022-11-23 12.14.33.excalidraw.md"
   ]
 }

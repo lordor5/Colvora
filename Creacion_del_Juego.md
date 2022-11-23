@@ -10,9 +10,11 @@ estos archivos
 - 6
 
 En una cartulina A4 en un grosor un poco mas gordo que el papel normal
-después tienes que recortarlo.
+después tienes que recortarlos.
 
-Por ultimo con que consigas unas fichas que representen las gemas ya lo tendrías todo y puedes empezar a jugar [aquí](Partida.md)
+Tendrás cuadrados de 8x8 cm que tienes que doblar dos veces de manera que obtengas cuadrados de 4x4 cm.
+
+Por ultimo tienes que conseguir unas fichas que representen las gemas.
 
 ## Contenido del juego base
 
@@ -21,3 +23,7 @@ Por ultimo con que consigas unas fichas que representen las gemas ya lo tendría
 - Cartas de portal
 - Cartas de obstáculos
 - Maestros
+
+---
+
+# [Empezar a jugar](Empezar_a_jugar.md)

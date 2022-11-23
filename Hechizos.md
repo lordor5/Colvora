@@ -1,11 +1,5 @@
 # Hechizos
 
-
-
-Los jugadores pueden acceder a la magia de distintas formas:
-
-- Las cartas están para para todos, se pueden gastar en su turno.( Se puede pagar mas para gastar una carta fuera de su turno).Se sacan del mazo 3 cartas que se ponen visibles encima de la mesa, los jugadores pueden usarlas y se van reponiendo.
-
 - [Correr](Hechizos/Correr)
 - [Impulso](Hechizos/Impulso)
 - [Mina](Hechizos/Mina)
