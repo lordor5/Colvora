@@ -4,8 +4,8 @@ Colvora es un juego de mesa donde la forma de la pieza determina su movimiento.
 
 Esta wiki, esta ordenada de más fácil a más difícil, si es tu primera partida puedes simplemente usar el primer modo de juego sin variar nada para así familiarizarte con el juego.
 
-# Inicio
 
+# Inicio
 
 Si quieres hacerte el juego, tienes que seguir [esta guía](Creacion_del_Juego.md)
 
@@ -13,8 +13,11 @@ Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aquí](
 
 
 # Links útiles
+
 [Hechizos](Hechizos.md)
+
 [Modos_de_juego](Modos_de_juego.md)
+
 
 # Que es colvora?
 
