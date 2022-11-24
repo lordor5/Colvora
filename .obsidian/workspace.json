@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3528e552763086fd",
+            "id": "c4b27d37808600ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Hechizos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Hechizos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Hechizos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Hechizos.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Readme.md",
+                "file": "Hechizos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,16 +199,17 @@
     "width": 355.5,
     "collapsed": true
   },
-  "active": "3528e552763086fd",
+  "active": "c4b27d37808600ab",
   "lastOpenFiles": [
-    "Modos_de_juego.md",
+    "Hechizos/Mejora.md",
     "Hechizos.md",
-    "Empezar_a_jugar.md",
-    "Creacion_del_Juego.md",
-    "Readme.md",
-    "Partida.md",
-    "Maestros.md",
-    "Ideas/Ideas.md",
-    "Excalidraw/Drawing 2022-11-23 12.14.33.excalidraw.md"
+    "Hechizos/Rocas.md",
+    "Hechizos/Portal.md",
+    "Hechizos/Bonus.md",
+    "Elementos/Agua.md",
+    "Hechizos/Inmortal.md",
+    "Hechizos/Volcan.md",
+    "Hechizos/Viento.md",
+    "Hechizos/Tunel.md"
   ]
 }
