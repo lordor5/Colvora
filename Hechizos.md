@@ -1,59 +1,50 @@
 # Hechizos
 
-1.  [Correr](Hechizos/Correr)
-2. [Impulso](Hechizos/Impulso)
-3. 
-4. [Mina](Hechizos/Mina)
-5. [Misil mágico](Hechizos/Misil_magico)
-6. 
-7. [Revivir](Revivir.md)
-8. 
-9. 
-10. 
-11. [Rocas](Hechizos/Rocas.md)
-12. [Volcan](Hechizos/Volcan.md)
-13. [Viento](Hechizos/Viento.md)
-14. 
-15. [Túnel](Hechizos/Tunel.md)
-16. [Portal](Hechizos/Portal.md)
-17. [Tp](Hechizos/Tp.md)
-18. 
-19. [Ralentizar](Hechizos/Ralentizar.md)
-20. [Congelación](congelacion.md)
-21. 
-22. [Explosión](Hechizos/Explosión.md)
-23. 
-24. [Banco](Hechizos/Banco)
-25. [Aliento de dragón](Hechizos/Aliento_de_dragon.md) -
-26. 
-27. [Inmortal](Hechizos/Inmortal.md)
-28. [Bonus](Hechizos/Bonus.md)
-29. 
-30. [Mejora](Hechizos/Mejora.md)
-31. 
-32. Bandidos pictos
-33. Escudo 
-34. Mana 
-35. Muerte 
-36. Ladrón
-37. Pluma de fenix
-38. Mana de kuchtap
-39. Fuego mágico de los enanos
-40. a
-41. a
-42. a
-43. a
-44. a
-45. a
-46. a
-47. a
-48. a
-49. a
-50. a
-51. a
-52. a
-53. a
+- [Correr](Hechizos/Correr)
+- [Impulso](Hechizos/Impulso)
+- [Mina](Hechizos/Mina)
+- [Misil mágico](Hechizos/Misil_magico)
+- [Rocas](Hechizos/Rocas.md)
+- [Volcán](Hechizos/Volcan.md)
+- [Viento](Hechizos/Viento.md)
+- [Túnel](Hechizos/Tunel.md)
+- [Portal](Hechizos/Portal.md)
+[Tp](Hechizos/Tp.md)
+[Ralentizar](Hechizos/Ralentizar.md)
+[Congelación](Hechizos/Congelacion.md)
+[Revivir](Revivir.md)
+[Explosión](Hechizos/Explosión.md)
+[Muerte](Hechizos/Muerte.md)
+[Bandidos_Pictos](Hechizos/Bandidos_Pictos.md)
+[Brújula](Elementos/Brujula.md)
+[Inmortal](Hechizos/Inmortal.md)
+[Escudo](Hechizos/Escudo.md)
+[Bonus](Hechizos/Bonus.md)
+[No respeta](Hechizos/No_respeta.md)
+[Mejora](Hechizos/Mejora.md)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
+[Banco](Hechizos/Banco)
+[Aliento de dragón](Hechizos/Aliento_de_dragon.md) -
+
+Mana 
+Ladrón
+Pluma de fenix
+Mana de kuchtap
+Fuego mágico de los enanos
 
 
 Obstáculos
