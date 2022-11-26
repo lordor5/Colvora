@@ -9,33 +9,33 @@
 - [Viento](Hechizos/Viento.md)
 - [Túnel](Hechizos/Tunel.md)
 - [Portal](Hechizos/Portal.md)
-[Tp](Hechizos/Tp.md)
-[Ralentizar](Hechizos/Ralentizar.md)
-[Congelación](Hechizos/Congelacion.md)
-[Revivir](Revivir.md)
-[Explosión](Hechizos/Explosión.md)
-[Muerte](Hechizos/Muerte.md)
-[Bandidos_Pictos](Hechizos/Bandidos_Pictos.md)
-[Brújula](Elementos/Brujula.md)
-[Inmortal](Hechizos/Inmortal.md)
-[Escudo](Hechizos/Escudo.md)
-[Bonus](Hechizos/Bonus.md)
-[No respeta](Hechizos/No_respeta.md)
-[Mejora](Hechizos/Mejora.md)
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+- [Tp](Hechizos/Tp.md)
+- [Ralentizar](Hechizos/Ralentizar.md)
+- [Congelación](Hechizos/Congelacion.md)
+- [Revivir](Revivir.md)
+- [Explosión](Hechizos/Explosión.md)
+- [Muerte](Hechizos/Muerte.md)
+- [Bandidos_Pictos](Hechizos/Bandidos_Pictos.md)
+- [Brújula](Elementos/Brujula.md)
+- [Inmortal](Hechizos/Inmortal.md)
+- [Escudo](Hechizos/Escudo.md)
+- [Bonus](Hechizos/Bonus.md)
+- [No respeta](Hechizos/No_respeta.md)
+- [Mejora](Hechizos/Mejora.md)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 [Banco](Hechizos/Banco)
 [Aliento de dragón](Hechizos/Aliento_de_dragon.md) -
