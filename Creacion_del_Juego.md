@@ -12,7 +12,7 @@ estos archivos
 En una cartulina A4 en un grosor un poco mas gordo que el papel normal
 después tienes que recortarlos.
 
-Tendrás cuadrados de 8x8 cm que tienes que doblar dos veces de manera que obtengas cuadrados de 4x4 cm.
+Tendrás cuadrados de 64x64mm que tienes que doblar dos veces de manera que obtengas cuadrados de 32x32mm.
 
 Por ultimo tienes que conseguir unas fichas que representen las gemas.
 

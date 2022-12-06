@@ -7,8 +7,6 @@ se pueden poner estructuras elevadas a las que solo se pueda acceder desde una r
 mazmorras
 
 
-[[Ideas para modos de juego]]
-
 ## Variaciones generales
 
 (magia: volver caótico a un dios durante un turno)

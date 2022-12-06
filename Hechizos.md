@@ -16,7 +16,7 @@
 - [Explosión](Hechizos/Explosión.md)
 - [Muerte](Hechizos/Muerte.md)
 - [Bandidos_Pictos](Hechizos/Bandidos_Pictos.md)
-- [Brújula](Elementos/Brujula.md)
+- [Brújula](Hechizos/Brujula.md)
 - [Inmortal](Hechizos/Inmortal.md)
 - [Escudo](Hechizos/Escudo.md)
 - [Bonus](Hechizos/Bonus.md)

@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hechizos.md",
+                "file": "Empezar_a_jugar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdcd28bf64aa4054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Empezar_a_jugar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "621213cb6264bf43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creacion_del_Juego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66aaba4ec5dfda53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modos_de_juego.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "879dad0b7726319a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modos_de_juego/Juegos_del_hambre.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hechizos.md",
+                "file": "Creacion_del_Juego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hechizos.md",
+                "file": "Creacion_del_Juego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hechizos.md"
+                "file": "Creacion_del_Juego.md"
               }
             }
           }
@@ -141,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hechizos.md",
+                "file": "Creacion_del_Juego.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,20 +245,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
-  "active": "eb895b1c0f3596b0",
+  "active": "621213cb6264bf43",
   "lastOpenFiles": [
-    "Elementos/Brujula.md",
+    "Empezar_a_jugar.md",
+    "Modos_de_juego.md",
+    "Ideas para modos de juego.md",
+    "Readme.md",
+    "Creacion_del_Juego.md",
+    "Modos_de_juego/Juegos_del_hambre.md",
+    "Modos_de_juego/Atrapar_la_bandera.md",
     "Hechizos.md",
-    "Hechizos/Mejora.md",
-    "Hechizos/Mina.md",
-    "Hechizos/Bandidos_Pictos.md",
-    "Hechizos/Congelacion.md",
-    "Hechizos/No_respeta.md",
-    "Hechizos/Escudo.md",
-    "Hechizos/Muerte.md",
-    "Hechizos/Rocas.md"
+    "Hechizos/Brujula.md",
+    "Hechizos/Mejora.md"
   ]
 }
