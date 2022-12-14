@@ -1,4 +1,4 @@
-[Fuego](/Elementos/Fuego)
+[Fuego](Español/Elementos/Fuego.md)
 
 coste: 6
 

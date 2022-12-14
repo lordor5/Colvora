@@ -13,7 +13,7 @@ Se puede gastar un movimiento para rotar la pieza si es necesario
 # Ataque
 
 Cada pieza representa a un maestro de un elemento, y cada uno tiene su habilidad propia. 
-Hay 3 elementos: [Fuego](Elementos/Fuego.md), [Planta](Elementos/Planta.md), [Agua](Elementos/Agua.md)
+Hay 3 elementos: [Fuego](Español/Elementos/Fuego.md), [Planta](Español/Elementos/Planta.md), [Agua](Español/Elementos/Agua.md)
 
 -  Los elementos sirven para el ataque, el fuego quema la planta, la planta seca el agua y el agua extingue el fuego
 ![](Excalidraw/Drawing%202022-11-23%2012.14.33.excalidraw.svg)
@@ -89,4 +89,4 @@ Lo normal seria que los jugadores pueden  activar el hechizo aunque el maestro n
 El maestro no se puede hacer daño a si mismo a no ser que el hechizo lo exija
  >ej. si el hechizo permite matar a un maestro, no puede matarse a si mismo. Pero si el hechizo requiere que el maestro se inmole, es ese caso muere.
 
-Tienes todos los hechizos [aquí](Hechizos.md)
+Tienes todos los hechizos [aquí](Español/Hechizos.md)

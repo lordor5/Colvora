@@ -1,4 +1,4 @@
-[Agua](Elementos/Agua.md)
+[Agua](Español/Elementos/Agua.md)
 
 Coste: 3
 
