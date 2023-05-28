@@ -4,9 +4,6 @@ Las piezas se mueven haciéndolas girar sobre una arista.
 Pueden moverse hacia cualquier dirección en la que tengan aristas.
 Si la pieza ya se ha levantado, tiene que terminar de girar, aunque después vuelva hacia atrás.
 
-![Tablero](Excalidraw/tablero.excalidraw.svg)
-
-
 Se puede gastar un movimiento para rotar la pieza si es necesario
 
 
@@ -36,13 +33,13 @@ Una vez con cartas, se empieza el turno
 
 ### Durante el turno
 
-	En cualquier moemnto del turno se puede usar la magia, y si la carta es de fuego, se puede usar tambien en el turno del oponente
+En cualquier momento del turno se puede usar la magia, y si la carta es de fuego, se puede usar también en el turno del oponente
 
 1. Sacar una carta de movimiento
 2. Mover un maestro de cada color los movimientos indicados en la carta
 
 ---
-===Con lo que sabes hasta ahora ya puedes hacer una partida==
+===Con lo que sabes hasta ahora ya puedes hacer una partida===
 
 # Niveles
 Los maestros empiezan a nivel 1, para subir de nivel, el jugador tiene que pagar gemas:
