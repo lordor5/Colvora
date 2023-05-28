@@ -7,16 +7,16 @@ Esta wiki, esta ordenada de más fácil a más difícil, si es tu primera partid
 
 # Inicio
 
-Si quieres hacerte el juego, tienes que seguir [esta guía](Español/Creacion_del_Juego.md)
+Si quieres hacerte el juego, tienes que seguir [esta guía](Creacion_del_Juego.md)
 
-Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aquí](Español/Empezar_a_jugar.md)
+Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aquí](Empezar_a_jugar.md)
 
 
 # Links útiles
 
-[Hechizos](Español/Hechizos.md)
+[Hechizos](Hechizos.md)
 
-[Modos_de_juego](Español/Modos_de_juego.md)
+[Modos_de_juego](Modos_de_juego.md)
 
 
 # Que es colvora?

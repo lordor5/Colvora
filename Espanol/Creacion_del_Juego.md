@@ -26,4 +26,4 @@ Por ultimo tienes que conseguir unas fichas que representen las gemas.
 
 ---
 
-# [Empezar a jugar](Español/Empezar_a_jugar.md)
+# [Empezar a jugar](Empezar_a_jugar.md)

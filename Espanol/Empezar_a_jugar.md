@@ -10,10 +10,10 @@ Se puede gastar un movimiento para rotar la pieza si es necesario
 # Ataque
 
 Cada pieza representa a un maestro de un elemento, y cada uno tiene su habilidad propia. 
-Hay 3 elementos: [Fuego](Español/Elementos/Fuego.md), [Planta](Español/Elementos/Planta.md), [Agua](Español/Elementos/Agua.md)
+Hay 3 elementos: [Fuego](Fuego.md), [Planta](Planta.md), [Agua](Agua.md)
 
 -  Los elementos sirven para el ataque, el fuego quema la planta, la planta seca el agua y el agua extingue el fuego
-![](Excalidraw/Drawing%202022-11-23%2012.14.33.excalidraw.svg)
+![](Drawing%202022-11-23%2012.14.33.excalidraw.svg)
 
 # Fases del turno
 
@@ -57,7 +57,7 @@ Al subir de nivel, los maestros reciben una montura que les hace mas grandes com
 
 > Tienes que desdoblar el papel
 
-![Mejora de un maestro de nivel 1 a nivel 2](Excalidraw/MejoraMaestro2.excalidraw.svg)
+![Mejora de un maestro de nivel 1 a nivel 2](MejoraMaestro2.excalidraw.svg)
 
 Al mejorar, son mas grandes por lo que pueden moverse mas con el mismo movimiento
 
@@ -68,7 +68,7 @@ Al nivel 3 son mas grandes pero también mas fuertes, ahora pueden matar al colo
 
 > ej. Si el maestro es de fuego, muere por el agua, pero ahora si el ataca al agua, la marta. Se mantiene que si el agua le ataca, el muere
 
-![Mejora de nivel 2 a nivel 3](Excalidraw/MejoraMaestro3.excalidraw.svg)
+![Mejora de nivel 2 a nivel 3](MejoraMaestro3.excalidraw.svg)
 
 <!--
 # Hechizos

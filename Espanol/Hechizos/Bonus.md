@@ -1,5 +1,5 @@
 
-[Planta](Español/Elementos/Planta.md)
+[Planta](Planta.md)
 
 Coste: 5
 

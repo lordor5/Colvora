@@ -3,7 +3,7 @@ This is a board game
 
 You can start selecting you language
 
-[Español](Colvora/Español/Readme.md)
+[Español](Colvora/Espanol/Readme.md)
 
 [English](Colvora/English/Readme.md)
 

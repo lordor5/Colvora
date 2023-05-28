@@ -1,4 +1,4 @@
-[Fuego](Español/Elementos/Fuego.md)
+[Fuego](Fuego.md)
 Coste: 4
 
 Creas un volcán donde quieras.
