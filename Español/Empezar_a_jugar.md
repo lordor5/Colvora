@@ -39,15 +39,19 @@ En cualquier momento del turno se puede usar la magia, y si la carta es de fuego
 2. Mover un maestro de cada color los movimientos indicados en la carta
 
 ---
-===Con lo que sabes hasta ahora ya puedes hacer una partida===
+Con lo que sabes hasta ahora ya puedes hacer una partida
 
 # Niveles
 Los maestros empiezan a nivel 1, para subir de nivel, el jugador tiene que pagar gemas:
 
  -> 4 gemas para revivirlo (si es posible)
+ 
  -> 6 gemas para subir a nivel 2
+ 
  -> 8 gemas para subir a nivel 3
  
+
+### Nivel 2
 
 Al subir de nivel, los maestros reciben una montura que les hace mas grandes como se puede ver en la imagen
 
@@ -57,7 +61,8 @@ Al subir de nivel, los maestros reciben una montura que les hace mas grandes com
 
 Al mejorar, son mas grandes por lo que pueden moverse mas con el mismo movimiento
 
-En el nivel 3:
+
+### Nivel 3
 
 Al nivel 3 son mas grandes pero también mas fuertes, ahora pueden matar al color que los mata
 
@@ -65,7 +70,7 @@ Al nivel 3 son mas grandes pero también mas fuertes, ahora pueden matar al colo
 
 ![Mejora de nivel 2 a nivel 3](Excalidraw/MejoraMaestro3.excalidraw.svg)
 
-
+<!--
 # Hechizos
 
 Los jugadores pueden acceder a la magia de distintas formas:
@@ -87,3 +92,5 @@ El maestro no se puede hacer daño a si mismo a no ser que el hechizo lo exija
  >ej. si el hechizo permite matar a un maestro, no puede matarse a si mismo. Pero si el hechizo requiere que el maestro se inmole, es ese caso muere.
 
 Tienes todos los hechizos [aquí](Español/Hechizos.md)
+
+-->
