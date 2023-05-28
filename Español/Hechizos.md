@@ -1,27 +1,27 @@
 # Hechizos
 
-- [Correr](Correr.md)
-- [Impulso](Impulso.md)
-- [Mina](Mina.md)
-- [Misil mágico](Misil_magico.md)
-- [Rocas](Rocas.md)
-- [Volcán](Volcan.md)
-- [Viento](Viento.md)
-- [Túnel](Tunel.md)
-- [Portal](Portal.md)
-- [Tp](Tp.md)
-- [Ralentizar](Ralentizar.md)
-- [Congelación](Congelacion.md)
-- [Revivir](Revivir.md)
-- [Explosión](Explosión.md)
-- [Muerte](Muerte.md)
-- [Bandidos_Pictos](Bandidos_Pictos.md)
-- [Brújula](Brujula.md)
-- [Inmortal](Inmortal.md)
-- [Escudo](Escudo.md)
-- [Bonus](Bonus.md)
-- [No respeta](No_respeta.md)
-- [Mejora](Mejora.md)
+- [Correr](Hechizos/Correr.md)
+- [Impulso](Hechizos/Impulso.md)
+- [Mina](Hechizos/Mina.md)
+- [Misil_magico](Hechizos/Misil_magico.md)
+- [Rocas](Hechizos/Rocas.md)
+- [Volcan](Hechizos/Volcan.md)
+- [Viento](Hechizos/Viento.md)
+- [Tunel](Hechizos/Tunel.md)
+- [Portal](Hechizos/Portal.md)
+- [Tp](Hechizos/Tp.md)
+- [Ralentizar](Hechizos/Ralentizar.md)
+- [Congelacion](Hechizos/Congelacion.md)
+- [Revivir](Hechizos/Revivir.md)
+- [Explosión](Hechizos/Explosión.md)
+- [Muerte](Hechizos/Muerte.md)
+- [Bandidos_Pictos](Hechizos/Bandidos_Pictos.md)
+- [Brujula](Hechizos/Brujula.md)
+- [Inmortal](Hechizos/Inmortal.md)
+- [Escudo](Hechizos/Escudo.md)
+- [Bonus](Hechizos/Bonus.md)
+- [No_respeta](Hechizos/No_respeta.md)
+- [Mejora](Hechizos/Mejora.md)
 - 
 - 
 - 
@@ -37,8 +37,8 @@
 - 
 - 
 
-[Banco](Banco.md)
-[Aliento de dragón](Aliento_de_dragon.md) -
+[Banco](Hechizos/Banco.md)
+[Aliento_de_dragon](Hechizos/Aliento_de_dragon.md)
 
 Mana 
 Ladrón
@@ -48,18 +48,15 @@ Fuego mágico de los enanos
 
 
 Obstáculos
-[Rocas](Rocas.md)
-[Volcan](Volcan.md)
-[Viento](Viento.md)
+[Rocas](Hechizos/Rocas.md)
+[Volcan](Hechizos/Volcan.md)
+[Viento](Hechizos/Viento.md)
 
 
 Desplazamiento
-[Túnel](Tunel.md)
-[Portal](Portal.md)
-[Tp](Tp.md)
-
-
-
+[Tunel](Hechizos/Tunel.md)
+[Portal](Hechizos/Portal.md)
+[Tp](Hechizos/Tp.md)
 
 
 Hechizos para revisar 

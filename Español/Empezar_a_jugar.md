@@ -7,10 +7,11 @@ Si la pieza ya se ha levantado, tiene que terminar de girar, aunque después vue
 Se puede gastar un movimiento para rotar la pieza si es necesario
 
 
+
 # Ataque
 
 Cada pieza representa a un maestro de un elemento, y cada uno tiene su habilidad propia. 
-Hay 3 elementos: [Fuego](Fuego.md), [Planta](Planta.md), [Agua](Agua.md)
+Hay 3 elementos: [Fuego](Elementos/Fuego.md), [Planta](Elementos/Planta.md), [Agua](Elementos/Agua.md)
 
 -  Los elementos sirven para el ataque, el fuego quema la planta, la planta seca el agua y el agua extingue el fuego
 ![](Drawing%202022-11-23%2012.14.33.excalidraw.svg)

@@ -26,5 +26,3 @@ Colvora no es en si un juego sino que es mas un constructor de juegos. La idea e
 La idea al crear este juego es hacer un juego simple y barato de construir para que sea asequible a todo el mundo y además el juego crezca con los jugadores de manera que un niño pueda jugar y se divierta y un adulto también.
 
 Si quieres añadir contenido al juego, pero no sabes bien si tu idea es buena, puedes ponerla [aquí](https://github.com/lordor5/Colvora/discussions) para que la valoremos entre todos.
-
-<!--Todo: hechizos, fichas en el pdf, modos de juego -->

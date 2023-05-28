@@ -1,4 +1,4 @@
-[Agua](Agua.md)
+[Agua](../Elementos/Agua.md)
 
 Coste: 3
 
