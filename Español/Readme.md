@@ -13,16 +13,17 @@ Si ya tienes el juego y lo que quieres es aprender a jugar, empieza por [aquí](
 
 
 # Links útiles
-
+<!--
 [Hechizos](Hechizos.md)
-
+-->
 [Modos_de_juego](Modos_de_juego.md)
 
 
-# Que es colvora?
+## ¿Qué es Colvora?
 
-Colvora no es en si un juego sino que es mas un constructor de juegos. La idea es poner las bases para construir encima muchos juegos con la mecánica de que las piezas forman el tablero. La mesa seria el tablero de juego y el juego debe adaptarse a la mesa (ej. en una mesa cuadrada y pequeña, seria mejor que la vagoneta pasara en diagonal para que el juego durara mas y haya mas estrategia)
+Colvora no es propiamente un juego, sino más bien un constructor de juegos. La idea es establecer las bases para construir una variedad de juegos donde las piezas conforman el tablero. La mesa se convierte en el tablero de juego y el diseño del juego debe adaptarse a la forma de la mesa (por ejemplo, en una mesa pequeña y cuadrada, puede ser preferible que la vagoneta se mueva en diagonal para prolongar la duración del juego y aumentar la estrategia).
 
-La idea al crear este juego es hacer un juego simple y barato de construir para que sea asequible a todo el mundo y además el juego crezca con los jugadores de manera que un niño pueda jugar y se divierta y un adulto también.
+El objetivo al crear este juego es desarrollar uno simple y económico, accesible para todos. Además, el juego puede crecer junto con los jugadores, brindando diversión tanto a los niños como a los adultos.
 
-Si quieres añadir contenido al juego, pero no sabes bien si tu idea es buena, puedes ponerla [aquí](https://github.com/lordor5/Colvora/discussions) para que la valoremos entre todos.
+Si deseas aportar contenido al juego pero no estás seguro de si tu idea es buena, puedes compartirla [aquí](https://github.com/lordor5/Colvora/discussions) para que todos podamos evaluarla.
+
