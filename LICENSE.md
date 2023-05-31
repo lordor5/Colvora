@@ -6,3 +6,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
   Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
 </a>
+
+---
+
+If you want to sell the game or a modification, send an email at thelordor5@gmail.com
