@@ -4,8 +4,7 @@ Las piezas se mueven haciéndolas girar sobre una arista.
 Pueden moverse hacia cualquier dirección en la que tengan aristas.
 Si la pieza ya se ha levantado, tiene que terminar de girar, aunque después vuelva hacia atrás.
 
-Se puede gastar un movimiento para rotar la pieza si es necesario
-
+Se puede gastar la mitad de movimientos para rotar un maestro si es necesario
 
 
 # Ataque
@@ -70,6 +69,12 @@ Al nivel 3 son mas grandes pero también mas fuertes, ahora pueden matar al colo
 > ej. Si el maestro es de fuego, muere por el agua, pero ahora si el ataca al agua, la marta. Se mantiene que si el agua le ataca, el muere
 
 ![](Excalidraw/MejoraMaestro3.excalidraw.svg)
+
+---
+
+# [Modos_de_juego](Modos_de_juego.md)
+
+
 <!--
 # Hechizos
 
